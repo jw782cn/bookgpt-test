@@ -10,7 +10,21 @@ I used this project to improve my code skills to build infrastructure from scrat
 
 These classes are built with detailed logging and error checking system (where I want to improve for my code skills)
 
+## Design
 
+<img src="IMG_4903.jpg" alt="IMG_4903" style="zoom:50%;" />
+
+The current methods for reading PDFs using ChatGPT or GPT3 are limited to vector indexing or summarization, which can fall short when dealing with longer texts such as novels. 
+
+In my opinion, novels and movies are art forms that require a time-sequenced approach to fully appreciate them, rather than relying on relevant indexing or summarization techniques to understand chunks of information. 
+
+To address this issue, I propose using a reading theoretical methodology, inspired by **"How to Read a Book"** by the American philosopher Mortimer J. Adler, which would guide ChatGPT to read a book in a time sequence. 
+
+This approach would enable ChatGPT to construct an individual understanding of each chapter and accumulate both structural and interpretive knowledge about the book. 
+
+While this method can also incorporate previous methods such as embeddings, I believe it is preferable as literature should be read in sequence for a more complete understanding.
+
+*This project may continue to be constructed.*
 
 ## Book class
 
@@ -123,3 +137,7 @@ Usage: <total number of tokens used>
 
 
 Already discarded. Because I realize langchain is more useful to build the project.
+=======
+# bookgpt test
+ Use ChatGPT to read books.
+>>>>>>> parent of 48ff06d (update)
