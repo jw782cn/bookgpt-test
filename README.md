@@ -24,7 +24,7 @@ This approach would enable ChatGPT to construct an individual understanding of e
 
 While this method can also incorporate previous methods such as embeddings, I believe it is preferable as literature should be read in sequence for a more complete understanding.
 
-*This project may continue to be constructed.*
+*This project may continue to be constructed. Will switch to Langchain*
 
 ## Book class
 
@@ -133,11 +133,3 @@ User: <user message>
 Response: <response message>
 Usage: <total number of tokens used>
 ```
-
-
-
-Already discarded. Because I realize langchain is more useful to build the project.
-=======
-# bookgpt test
- Use ChatGPT to read books.
->>>>>>> parent of 48ff06d (update)
