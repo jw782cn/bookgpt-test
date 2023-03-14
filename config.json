@@ -1,0 +1,9 @@
+{
+    "default_system_prompt": "You are a book reading helper AI, you are here to help people read books.",
+    "logging_file_path" : "logging/status.log",
+    "conversation_file_path" : "logging/conversation.log",
+    "log_conversation" : true,
+    "model" : "gpt-3.5-turbo",
+    "structure_file_path" : "prompt/structure.json",
+    "prompt_failure_times" : 3
+}

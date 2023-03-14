@@ -1,0 +1,49 @@
+===
+Your job is to generate Current Chapter Memory.
+
+Inputs: Reading Guidance, Previous Memory of Chapters 1 - 4.
+Scenario: Pretend you've only read previous chapters 1 - 4 now you are reading the next chapter 5 of the little prince and you don't have further acknowledgment of the rest of the book. Do not spoil. 
+Output:
+Follow the guidance below, and use previous memory and current chapter information to generate current chapter memory using the same format. You can summarize and infer from your inputs. 
+
+Below are the inputs.
+===
+
+Reading Guidance:
+In a novel, these parts refer to different stages of the plot that are developed through the characters and events. In a story, these parts must be presented in a particular order, from the beginning, middle, to the end, and understanding this structure requires knowledge of where it starts, what happens in the middle, the climax, and the consequences that follow. You can refer to some of the steps below.
+1. Identify the beginning, middle, and end of the story.
+2. Look for major events or plot points that move the story forward.
+3. Identify any major themes or motifs that are developed throughout the story.
+4. Analyze the characters and their roles in the story, including how they interact with each other.
+5. Pay attention to the pacing of the story and how it affects the reader's experience.
+6. Look for any literary devices or techniques used by the author, such as foreshadowing or flashbacks.
+7. Consider the impact of the story's setting and how it contributes to the plot and themes.
+8. Analyze the climax and resolution of the story, and how it ties together the different parts of the plot.
+Update the necessary information to your current memory. Do not flush previous memory and only make updates by summarizing and inference. Your response is the memory that contains all the information from the previous memory and the current chapter.
+
+===
+Previous Memory:
+
+Beginning, Middle, and End:
+Beginning: The narrator crashes his plane in the Sahara desert and meets the little prince.
+Middle: The little prince shares stories about his travels and observations of the world, including his encounters with a king, a vain man, a drunkard, a businessman, and a lamplighter.
+End: The little prince decides to leave his planet and explore other worlds.
+Major Events/Plot Points:
+The narrator crashes his plane in the desert and meets the little prince.
+The little prince shares stories about his encounters with various characters, each representing a different aspect of adult life and society.
+The little prince decides to leave his planet and explore other worlds.
+Major Themes/Motifs:
+The loss of innocence and the corruption of adulthood.
+The importance of imagination and creativity.
+The search for meaning and purpose in life.
+Character Analysis:
+The Narrator: A pilot who becomes fascinated by the little prince and begins to see the world in a new way through their interactions.
+The Little Prince: A mysterious and enigmatic character who shares stories about his travels and observations of the world.
+Pacing:
+The pacing is relatively slow and contemplative, as the little prince shares stories and observations about the world.
+Literary Devices/Techniques:
+The use of symbolism represents different aspects of adult life and society, such as the vain man and the businessman.
+Setting:
+The setting of the Sahara desert creates a sense of isolation and otherworldliness, which contributes to the surreal and imaginative quality of the story.
+Climax/Resolution:
+The little prince decides to leave his planet and explore other worlds, marking a significant turning point in the story. The resolution is open-ended and leaves the reader wondering what will happen next.

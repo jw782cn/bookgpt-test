@@ -1,0 +1,40 @@
+2023-03-10 14:47:58,130 - INFO - logger set!
+2023-03-10 14:47:58,130 - INFO - Set API key to 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
+2023-03-10 14:47:58,131 - INFO - book loaded from data/little_prince.txt
+2023-03-10 14:47:58,132 - INFO - book split into 17 chunks
+2023-03-10 14:48:00,175 - INFO - prompt: Here's the begining of one book. Please inform me the Author, Title, Genre, and Theme of the book in JSON format like below:
+{ author: 'Author Name', title: 'Title of the Book', genre: 'Genre of the Book', 'theme': 'Theme of the Book' }
+2023-03-10 14:48:00,175 - INFO - Sending message!
+2023-03-10 14:48:02,456 - WARNING - Response finished with reason: None
+2023-03-10 14:55:42,259 - INFO - logger set!
+2023-03-10 14:55:42,259 - INFO - Set API key to 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
+2023-03-10 14:55:42,259 - INFO - book loaded from data/little_prince.txt
+2023-03-10 14:55:42,261 - INFO - book split into 17 chunks
+2023-03-10 14:55:42,291 - INFO - getting book info
+2023-03-10 14:55:42,291 - INFO - prompt: Here's the begining of one book. Please inform me the Author, Title, Genre, and Theme of the book in JSON format like below:
+{ author: 'Author Name', title: 'Title of the Book', genre: 'Genre of the Book', 'theme': 'Theme of the Book' }
+2023-03-10 14:55:42,291 - INFO - Sending message!
+2023-03-10 14:55:45,276 - INFO - getting book info
+2023-03-10 14:55:45,276 - INFO - prompt: Here's the begining of one book. Please inform me the Author, Title, Genre, and Theme of the book in JSON format like below:
+{ author: 'Author Name', title: 'Title of the Book', genre: 'Genre of the Book', 'theme': 'Theme of the Book' }
+2023-03-10 14:55:45,276 - INFO - Sending message!
+2023-03-10 14:55:57,338 - INFO - logger set!
+2023-03-10 14:55:57,339 - INFO - Set API key to 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
+2023-03-10 14:55:57,339 - INFO - book loaded from data/little_prince.txt
+2023-03-10 14:55:57,340 - INFO - book split into 17 chunks
+2023-03-10 14:56:01,070 - INFO - getting book info
+2023-03-10 14:56:01,070 - INFO - prompt: Here's the begining of one book. Please inform me the Author, Title, Genre, and Theme of the book in JSON format like below:
+{ author: 'Author Name', title: 'Title of the Book', genre: 'Genre of the Book', 'theme': 'Theme of the Book' }
+2023-03-10 14:56:01,070 - INFO - Sending message!
+2023-03-10 14:56:42,882 - INFO - logger set!
+2023-03-10 14:56:42,882 - INFO - Set conversation logger
+2023-03-10 14:56:42,882 - INFO - Set API key to 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
+2023-03-10 14:56:42,882 - INFO - book loaded from data/little_prince.txt
+2023-03-10 14:56:42,883 - INFO - book split into 17 chunks
+2023-03-10 14:56:42,927 - INFO - getting book info
+2023-03-10 14:56:42,927 - INFO - prompt: Here's the begining of one book. Please inform me the Author, Title, Genre, and Theme of the book in JSON format like below:
+{ author: 'Author Name', title: 'Title of the Book', genre: 'Genre of the Book', 'theme': 'Theme of the Book' }
+2023-03-10 14:56:42,927 - INFO - Sending message!
+2023-03-10 14:56:45,509 - INFO - Response got!
+2023-03-10 14:56:45,509 - INFO - Success: Got json response
+2023-03-10 14:56:45,509 - INFO - book info: {'author': 'Antoine De Saint-Exupery', 'title': 'The Little Prince', 'genre': "Children's Literature", 'theme': 'Philosophy and Human Nature'}
